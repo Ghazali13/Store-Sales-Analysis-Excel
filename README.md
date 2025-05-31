@@ -42,9 +42,9 @@ This project analyzes a retail store's 2022 performance using Excel to generate 
 
 ## 🧑‍💻 Author
 
-**Your Name Here**  
+**Ahmad**  
 Data Analyst | Excel Enthusiast  
-📧 your.email@example.com
+📧 gazaliahmed1@gmail.com
 
 ---
 
